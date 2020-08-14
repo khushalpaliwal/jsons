@@ -12,26 +12,5 @@
     "title": "Basmati Rice",
     "option": "100 Grams",
     "price": 210
-  },
-  {
-    "itemid": 3,
-    "qty": 0,
-    "title": "Colgate Toothpaste",
-    "option": "100 Grams",
-    "price": 220
-  },
-  {
-    "itemid": 4,
-    "qty": 0,
-    "title": "Chana Masala",
-    "option": "100 Grams",
-    "price": 230
-  },
-  {
-    "itemid": 5,
-    "qty": 0,
-    "title": "Dairy Milk",
-    "option": "100 Grams",
-    "price": 240
   }
 ]
